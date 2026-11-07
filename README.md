@@ -1,32 +1,31 @@
-# First Finance Residential — TikTok Home Loan Advertisement
+# First Finance Residential Pty Ltd — TikTok Home Loan Advertisement
 
 ## 25-second vertical video ad
 
-**Format:** 9:16 vertical · warm, upbeat music · quick cuts · burned-in captions
+**Format:** 9:16 vertical · professional, warm delivery · clear captions · calm, contemporary music
 
 | Time | Visual direction | Voiceover and on-screen text |
 |---|---|---|
-| 0–3 sec | A couple stands in an empty living room, picturing how they’ll make it home. | **Voiceover:** “Your first home starts with a plan.” **On screen:** *Ready to take the next step?* |
-| 3–8 sec | They browse homes on a phone, then sit down together to talk through their budget. | **Voiceover:** “First Finance Residential is here to help you explore home loan options that suit your circumstances.” **On screen:** *Explore your home loan options* |
-| 8–14 sec | Friendly adviser listens and explains information on a screen; avoid showing unverified rates or approval claims. | **Voiceover:** “Our team can help you understand the process, compare features, and ask the right questions.” **On screen:** *Clear guidance. Informed choices.* |
-| 14–20 sec | Couple unlocks the front door and steps inside; natural, authentic moment. | **Voiceover:** “Because finding the right way forward should feel a little less overwhelming.” **On screen:** *Let’s talk about your goals* |
-| 20–25 sec | Brand end card with First Finance Residential name/logo and contact details. | **Voiceover:** “Take the first step with First Finance Residential. Get in touch today.” **On screen:** *Start a conversation · [Website] · [Phone]* |
+| 0–3 sec | A person looks at a property listing, then at camera. | **Voiceover:** “Planning to buy a home—or thinking about refinancing?” **On screen:** *Home loan options, made easier to explore.* |
+| 3–8 sec | Quick shots of a homebuyer viewing a property and a homeowner reviewing their current loan. | **Voiceover:** “First Finance Residential can help you explore home loan options for a purchase or refinance.” **On screen:** *Purchase · Refinance* |
+| 8–15 sec | Roy Shrestha talks with a client and reviews information together. | **Voiceover:** “Roy Shrestha can guide you through the process and help you understand options for your circumstances.” **On screen:** *Professional guidance. Personal conversation.* |
+| 15–20 sec | Client asks a question; Roy listens and responds. | **Voiceover:** “Every borrower’s needs are different. Start with a conversation and compare the details.” **On screen:** *Let’s discuss your goals.* |
+| 20–25 sec | Brand end card with First Finance Residential Pty Ltd and phone number. | **Voiceover:** “Contact Roy at First Finance Residential today.” **On screen:** *Roy Shrestha · 0435 637 669* |
 
 ## TikTok caption
 
-Thinking about buying a home? First Finance Residential can help you explore your home loan options and understand the steps ahead. Reach out for a conversation about your circumstances. **[Website]**
+Buying a home or considering a refinance? Roy Shrestha at First Finance Residential Pty Ltd can help you explore home loan options for your circumstances. Call **0435 637 669** to start a conversation.
 
 ## Suggested hashtags
 
-#FirstHome #HomeLoan #HomeBuying #FirstFinanceResidential #HomeOwnership
+#HomeLoan #HomeBuying #MortgageRefinance #Property #FirstFinanceResidential
 
 ## Production notes
 
-- Use a genuine, approachable adviser and real-life home moments.
-- Keep captions large, high-contrast, and inside TikTok’s safe areas.
-- Add the approved logo and verified contact details to the end card.
-- Do not imply guaranteed approval, a specific rate, savings, or suitability unless substantiated and approved for the relevant market.
+- Use professional, natural delivery and readable captions throughout.
+- Show the name **First Finance Residential Pty Ltd** and phone number **0435 637 669** clearly on the end card.
+- Do not display unverified rates, savings, approval guarantees, or claims that a product is suitable for everyone.
 
-## Advertising disclaimer
+## General information
 
-Home loan products and services are subject to eligibility, lender approval, terms, and conditions. Fees and other costs may apply. This advertisement is general information only and does not constitute financial advice or a loan offer. Consider your circumstances and review product terms before making a decision. Have the final advertisement reviewed for applicable legal and platform requirements before publication.
+Home loan applications are subject to lender eligibility criteria, assessment, approval, and terms and conditions. Fees and other costs may apply. This advertisement is general information only and is not financial advice or a loan offer. Consider your circumstances and review the product details before making a decision. Confirm any disclosure wording required for your jurisdiction before publishing.
