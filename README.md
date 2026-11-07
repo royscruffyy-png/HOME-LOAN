@@ -1,24 +1,32 @@
-# TikTok Home Loan Refinance Advertisement
+# First Finance Residential — TikTok Home Loan Advertisement
 
-## 20-second vertical video script
+## 25-second vertical video ad
 
-**Format:** 9:16 vertical video · upbeat, clear delivery · captions on screen
+**Format:** 9:16 vertical · warm, upbeat music · quick cuts · burned-in captions
 
-| Time | Visual | Voiceover / on-screen text |
+| Time | Visual direction | Voiceover and on-screen text |
 |---|---|---|
-| 0–3 sec | Homeowner looks at a stack of bills, then at camera. | **Voiceover:** “Wondering if your home loan still fits your life?” **On screen:** *Time for a home-loan check-in?* |
-| 3–8 sec | Quick cuts: homeowner reviewing a loan statement, then chatting with a loan professional. | **Voiceover:** “Refinancing may give you a chance to review your loan’s rate, term, and features.” **On screen:** *Review your options* |
-| 8–14 sec | Homeowner uses a phone or laptop to explore options. | **Voiceover:** “The right option depends on your goals, eligibility, and costs—so compare the details.” **On screen:** *Rates · Fees · Loan term* |
-| 14–20 sec | Friendly adviser on screen; end card with a clear button or URL. | **Voiceover:** “Ready to explore? Get in touch for a no-pressure conversation.” **On screen:** *Explore refinance options · [Your URL]* |
+| 0–3 sec | A couple stands in an empty living room, picturing how they’ll make it home. | **Voiceover:** “Your first home starts with a plan.” **On screen:** *Ready to take the next step?* |
+| 3–8 sec | They browse homes on a phone, then sit down together to talk through their budget. | **Voiceover:** “First Finance Residential is here to help you explore home loan options that suit your circumstances.” **On screen:** *Explore your home loan options* |
+| 8–14 sec | Friendly adviser listens and explains information on a screen; avoid showing unverified rates or approval claims. | **Voiceover:** “Our team can help you understand the process, compare features, and ask the right questions.” **On screen:** *Clear guidance. Informed choices.* |
+| 14–20 sec | Couple unlocks the front door and steps inside; natural, authentic moment. | **Voiceover:** “Because finding the right way forward should feel a little less overwhelming.” **On screen:** *Let’s talk about your goals* |
+| 20–25 sec | Brand end card with First Finance Residential name/logo and contact details. | **Voiceover:** “Take the first step with First Finance Residential. Get in touch today.” **On screen:** *Start a conversation · [Website] · [Phone]* |
 
-## Caption
+## TikTok caption
 
-Your home loan should work for your life. A refinance could be worth exploring—compare rates, fees, loan terms, and features before deciding. Talk with our team about your options: **[Your URL]**.
+Thinking about buying a home? First Finance Residential can help you explore your home loan options and understand the steps ahead. Reach out for a conversation about your circumstances. **[Website]**
 
 ## Suggested hashtags
 
-#HomeLoan #MortgageRefinance #Refinance #HomeownerTips #MoneyTalk
+#FirstHome #HomeLoan #HomeBuying #FirstFinanceResidential #HomeOwnership
 
-## Small-print disclaimer
+## Production notes
 
-Refinancing is subject to eligibility, lender approval, and applicable terms and conditions. Fees and other costs may apply. Refinancing may increase the total amount of interest paid or extend the loan term. Consider your circumstances and compare the total costs and features of available options. This advertisement is general information only and is not financial advice or a loan offer. Replace placeholders and have the final ad reviewed for the laws and platform requirements in your market before publishing.
+- Use a genuine, approachable adviser and real-life home moments.
+- Keep captions large, high-contrast, and inside TikTok’s safe areas.
+- Add the approved logo and verified contact details to the end card.
+- Do not imply guaranteed approval, a specific rate, savings, or suitability unless substantiated and approved for the relevant market.
+
+## Advertising disclaimer
+
+Home loan products and services are subject to eligibility, lender approval, terms, and conditions. Fees and other costs may apply. This advertisement is general information only and does not constitute financial advice or a loan offer. Consider your circumstances and review product terms before making a decision. Have the final advertisement reviewed for applicable legal and platform requirements before publication.
